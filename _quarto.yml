@@ -3,25 +3,40 @@ project:
   output-dir: docs
   
 website:
-  title: "LUÍS ADRIANO ANHOLETO"
+  title: "Luis Anholeto"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - projects.qmd
-    tools:
-      - icon: twitter
-        href: https://twitter.com/lanholeto
-      - icon: github
-        href: https://github.com/lanholeto/portfolio
+        text: |
+          Home
+      - href: about.qmd
+        text: |
+          About
+      - href: projects.qmd
+        text: |
+          Projects
+      - href: short_cv.qmd
+        text: |
+          CV
+    right: 
+    - icon: envelope
+      href: mailto:luis.anholeto@cadiau.ca
+    - icon: github
+      href: https://github.com/lanholeto
+    - icon: twitter
+      href: https://twitter.com/lanholeto
+    - icon: linkedin
+      href: https://www.linkedin.com/in/lanholeto
+    - icon: mortarboard-fill
+      href: https://scholar.google.com/citations?user=dlkP2zUAAAAJ&hl=en
+    - icon: person-circle
+      href: https://orcid.org/0000-0001-8712-2630
+  favicon: "images/anholeto-profile.jpeg"
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2025, Luís Adriano Anholeto"
-
+    left: |
+      © 2025 Luis Anholeto.
 format:
   html:
-    theme: litera
     toc: true
-
-editor: source
-
+    css: styles.css
+    smooth-scroll: true

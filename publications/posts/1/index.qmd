@@ -45,10 +45,11 @@ cajennense* females, opening up the possibility to use this extract as
 an alternative to control these ectoparasites.
 :::
 
-::: {.g-col-12 .g-col-sm-6}
+:::: {.g-col-12 .g-col-sm-6}
 ::: nav-btn
 [Back to Publications](/publications/index.qmd)
 
+ 
 
 #### How to cite
 
@@ -57,3 +58,11 @@ de Carvalho, Camargo-Mathias MI. Morphological alterations in the
 ovaries of *Amblyomma cajennense* semi-engorged ticks exposed to
 ethanolic extract of *Acmella oleracea*. *Microsc Res Tech*. 2018; 81:
 1347–1357. <https://doi.org/10.1002/jemt.23145>
+
+ 
+
+<a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jemt.23145" style="text-decoration: none;">
+<button style="background-color: black; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; font-family: 'Oswald', sans-serif; display: block; margin: auto;">
+Download </button> </a>
+:::
+::::

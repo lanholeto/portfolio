@@ -1,10 +1,15 @@
 ---
-title: CV
+title: Curriculum Vitae
+css: styles.css
 ---
 
-# **RESEARCH INTERESTS**
+Updated April 2025
 
-<hr>
+<a href="cv.pdf" style="text-decoration: none;">
+<button style="background-color: black; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; font-family: 'Oswald', sans-serif; display: block; margin: auto;">
+Download CV </button> </a>
+
+# **RESEARCH INTERESTS**
 
 ·Infectious diseases and bacterial pathogenesis
 
@@ -430,17 +435,16 @@ Lemongrass essential oil and DEET inhibit attractant detection in
 infected and non-infected *Ixodes scapularis* ticks. Current Research in
 Insect Science, v. 6, p. 100096, 2024.
 
-**2.ANHOLETO, L.A.**; BLANCHARD, S.; WANG, H.V.; CHAGAS,
-A.C.S.; HILLIER, N.K.; FARAONE, N. *In vitro* acaricidal activity of
-essential oils and their binary mixtures against *Ixodes scapularis*
-(Acari: Ixodidae). Ticks and Tick-Borne Diseases, v. 15, p. 102309,
-2024.
+**2.ANHOLETO, L.A.**; BLANCHARD, S.; WANG, H.V.; CHAGAS, A.C.S.;
+HILLIER, N.K.; FARAONE, N. *In vitro* acaricidal activity of essential
+oils and their binary mixtures against *Ixodes scapularis* (Acari:
+Ixodidae). Ticks and Tick-Borne Diseases, v. 15, p. 102309, 2024.
 
-**3.ANHOLETO, L.A**.; BRANCAGLION, G.A.; SANTOS, D.M.;
-KAPRITCHKOFF, R.T.I.; CASTRO, K.N.C.; CANUTO, K.M.; RODRIGUES, R.A.F.;
-CORREA, D.S.; CHAGAS, A.C.S.; PASTRE, J.C. Acaricidal activity of
-synthetic spilanthol derivative against ticks of medical and veterinary
-importance. Veterinary Parasitology, 2024.
+**3.ANHOLETO, L.A**.; BRANCAGLION, G.A.; SANTOS, D.M.; KAPRITCHKOFF,
+R.T.I.; CASTRO, K.N.C.; CANUTO, K.M.; RODRIGUES, R.A.F.; CORREA, D.S.;
+CHAGAS, A.C.S.; PASTRE, J.C. Acaricidal activity of synthetic spilanthol
+derivative against ticks of medical and veterinary importance.
+Veterinary Parasitology, 2024.
 
 **4.** CEPEDA, D.F.; ASCARI, J.; OLIVEIRA, M.S.; ANTONIOLI, G.;
 BARCELLOS, T.; **ANHOLETO, L.A.;** NUNES, P.H. Effect of *Tagetes
@@ -541,12 +545,12 @@ oocyte development in semi-engorged *Rhipicephalus sanguineus* sensu
 lato females ticks (Acari: Ixodidae). **Micron**, v.116, p.66 - 72,
 2018. DOI: http://dx.doi.org/10.1016/j.micron.2018.09.015
 
-**18.ANHOLETO, LUÍS ADRIANO**; OLIVEIRA, PATRÍCIA ROSA;
-RODRIGUES, RODNEY ALEXANDRE FERREIRA; YAMANE, LAIS THIEMI; CASTRO,
-KARINA NEOOB DE CARVALHO; CAMARGO-MATHIAS, MARIA IZABEL. Morphological
-alterations in the ovaries of semi-engorged ticks exposed to ethanolic
-extract of *Acmella oleracea*. **Microscopy Research and Technique**,
-v.1, p.1-11, 2018. DOI: http://dx.doi.org/10.1002/jemt.23145
+**18.ANHOLETO, LUÍS ADRIANO**; OLIVEIRA, PATRÍCIA ROSA; RODRIGUES,
+RODNEY ALEXANDRE FERREIRA; YAMANE, LAIS THIEMI; CASTRO, KARINA NEOOB DE
+CARVALHO; CAMARGO-MATHIAS, MARIA IZABEL. Morphological alterations in
+the ovaries of semi-engorged ticks exposed to ethanolic extract of
+*Acmella oleracea*. **Microscopy Research and Technique**, v.1, p.1-11,
+2018. DOI: http://dx.doi.org/10.1002/jemt.23145
 
 **19.** ABREU, RUSLEYD MARIA MAGALHÃES; ABREU, MARINA RODRIGUES; SANTOS,
 JUAN PARENTE; HEBLING, LETÍCIA MARIA GRABALLHOS FERRAZ; **ANHOLETO, LUÍS
@@ -564,10 +568,10 @@ sanguineus* (Latreille, 1806) (Acari: Ixodidae) female ticks.
 **International** **Journal of Acarology**, v.44, p.192-197, 2018. DOI:
 https://doi.org/10.1080/01647954.2018.1472637
 
-**21.ANHOLETO, LUÍS ADRIANO**; OLIVEIRA, PATRÍCIA ROSA;
-RODRIGUES, RODNEY ALEXANDRE FERREIRA; YAMANE, LAIS THIEMI; CASTRO,
-KARINA NEOOB CARVALHO; CAMARGO-MATHIAS, MARIA IZABEL. Toxic action of
-*Acmella oleracea* extract on the male reproductive system of *Amblyomma
+**21.ANHOLETO, LUÍS ADRIANO**; OLIVEIRA, PATRÍCIA ROSA; RODRIGUES,
+RODNEY ALEXANDRE FERREIRA; YAMANE, LAIS THIEMI; CASTRO, KARINA NEOOB
+CARVALHO; CAMARGO-MATHIAS, MARIA IZABEL. Toxic action of *Acmella
+oleracea* extract on the male reproductive system of *Amblyomma
 cajennense* ticks. **Veterinary Parasitology**, v.244, p.164 - 171,
 2017. DOI: http://dx.doi.org/10.1016/j.vetpar.2017.07.031
 
@@ -599,11 +603,11 @@ MARIA IZABEL. Morphological alterations in salivary glands of
 oil with known azadirachtin concentration. **Micron**, v.83, p.19-31,
 2016. DOI: http://dx.doi.org/10.1016/j.micron.2016.01.004
 
-**26.ANHOLETO, LUÍS ADRIANO**; OLIVEIRA, PATRÍCIA ROSA;
-RODRIGUES, RODNEY ALEXANDRE FERREIRA; SPINDOLA, CAROLINE DOS SANTOS;
-LABRUNA, MARCELO BAHIA; PIZANO, MARCOS APARECIDO; CASTRO, KARINA NEOOB
-DE CARVALHO; CAMARGO-MATHIAS, MARIA IZABEL. Potential action of extract
-of *Acmella oleracea* (L.) R.K. Jansen to control *Amblyomma cajennense*
+**26.ANHOLETO, LUÍS ADRIANO**; OLIVEIRA, PATRÍCIA ROSA; RODRIGUES,
+RODNEY ALEXANDRE FERREIRA; SPINDOLA, CAROLINE DOS SANTOS; LABRUNA,
+MARCELO BAHIA; PIZANO, MARCOS APARECIDO; CASTRO, KARINA NEOOB DE
+CARVALHO; CAMARGO-MATHIAS, MARIA IZABEL. Potential action of extract of
+*Acmella oleracea* (L.) R.K. Jansen to control *Amblyomma cajennense*
 (Fabricius, 1787) (Acari: Ixodidae) ticks. **Ticks and Tick-Borne
 Diseases**, v.8, p.65 - 72, 2016. DOI:
 http://dx.doi.org/10.1016/j.ttbdis.2016.09.018
@@ -646,10 +650,10 @@ source of molecules with inhibitory action: *in vivo* study with Walker
 256 Tumor Cells. **Journal of Pharmaceutical Care & Health Systems**,
 v.1, p.1 - 4, 2014. DOI: 10.4172/2376-0419.1000121
 
-**32.ANHOLETO, LUÍS ADRIANO**; NUNES, PABLO HENRIQUE;
-REMÉDIO, RAFAEL NEODINI; CAMARGO-MATHIAS, MARIA IZABEL. Testes of fed
-and unfed *Amblyomma cajennense* ticks (Acari: Ixodidae). First
-morphological data. **Acta Zoologica**, v. 96, p. 375-382, 2014. DOI:
+**32.ANHOLETO, LUÍS ADRIANO**; NUNES, PABLO HENRIQUE; REMÉDIO, RAFAEL
+NEODINI; CAMARGO-MATHIAS, MARIA IZABEL. Testes of fed and unfed
+*Amblyomma cajennense* ticks (Acari: Ixodidae). First morphological
+data. **Acta Zoologica**, v. 96, p. 375-382, 2014. DOI:
 https://doi.org/10.1111/azo.12083
 
 **33.** REMEDIO, RAFAEL NEODINI; SAMPIERI, BRUNO RODRIGUES; VENDRAMINI,
@@ -749,26 +753,26 @@ R. A. F.; CASTRO, K. N. C.
 Eclectic plant. **Revista Pesquisa FAPESP**. São Paulo, SP, p.72 - 73,
 2018.
 
-##**Media coverage**
+## **Media coverage**
 
 **“Tick-killing fungus research underway at N.S. university”**, 2024,
 CBC, Nova Scotia, Canada.
 
-##**Congress abstracts**
+## **Congress abstracts**
 
-**1.ANHOLETO, L. A.;** BRANCAGLION, G. A.; SANTOS, D.
-M.; KAPRITCHKOFF, R. T. I.; CASTRO, KARINA NEOOB DE CARVALHO; CANUTO, K.
-M.; RODRIGUES, R. A. F.; CORREA, D. S.; PASTRE, J. C.; CHAGAS, A. C. S.
-Acaricide activity of the synthetic derivative of espilantol against
-ticks of medical and veterinary importance In: XV Jornada Científica –
-Embrapa de São Carlos, 2023, São Carlos. Anais da XV Jornada Científica
-– Embrapa de São Carlos, 2023. p.1 – 66.
+**1.ANHOLETO, L. A.;** BRANCAGLION, G. A.; SANTOS, D. M.; KAPRITCHKOFF,
+R. T. I.; CASTRO, KARINA NEOOB DE CARVALHO; CANUTO, K. M.; RODRIGUES, R.
+A. F.; CORREA, D. S.; PASTRE, J. C.; CHAGAS, A. C. S. Acaricide activity
+of the synthetic derivative of espilantol against ticks of medical and
+veterinary importance In: XV Jornada Científica – Embrapa de São Carlos,
+2023, São Carlos. Anais da XV Jornada Científica – Embrapa de São
+Carlos, 2023. p.1 – 66.
 
-**2.ANHOLETO, L. A.;** BLANCHARD, S.; CHAGAS, A. C. S.;
-HILLIER, N. K.; FARAONE, N. In vitro evaluation of essential oils and
-their binary mixtures against the black-legged ticks Ixodes scapularis
-(Acari: Ixodidae) In: XIV Brazilian Symposium on Pharmacognosy, 2023,
-São Luis. Livro de Resumos - Apresentações Orais e Pôsteres, 2023. v.1.
+**2.ANHOLETO, L. A.;** BLANCHARD, S.; CHAGAS, A. C. S.; HILLIER, N. K.;
+FARAONE, N. In vitro evaluation of essential oils and their binary
+mixtures against the black-legged ticks Ixodes scapularis (Acari:
+Ixodidae) In: XIV Brazilian Symposium on Pharmacognosy, 2023, São Luis.
+Livro de Resumos - Apresentações Orais e Pôsteres, 2023. v.1.
 
 **3.** KAPRITCHKOFF, R. T. I.; **ANHOLETO, L. A.;** CHAGAS, A. C. S.
 Determination of the frequency of haplotypes of sheep B-globin and
@@ -794,20 +798,20 @@ of Animal Science, 2022, Porto.  Book of Abstracts of the 73rd Annual
 Meeting of the European Federation of Animal Science. The Netherlands:
 Wageningen Academic Publishers, 2022.
 
-**6.ANHOLETO, L. A.;** CAMARGO MATHIAS, MARIA IZABEL;
-OLIVEIRA, P. R.; RODRIGUES, RODNEY ALEXANDRE FERREIRA; YAMANE, LAIS
-THIEMI; CASTRO, KARINA NEOOB DE CARVALHO. Toxic action of Acmella
-oleracea extract on the *Amblyomma cajennense* (Acari: Ixodidae) male
-reproductive system In: III Latin American Congress of Acarology and VI
-Brazilian Symposium of Acarology, 2018, Pirenópolis, Goiás.  Congress
-proceedings of III CLAC & VI SIBAC, 2018.
+**6.ANHOLETO, L. A.;** CAMARGO MATHIAS, MARIA IZABEL; OLIVEIRA, P. R.;
+RODRIGUES, RODNEY ALEXANDRE FERREIRA; YAMANE, LAIS THIEMI; CASTRO,
+KARINA NEOOB DE CARVALHO. Toxic action of Acmella oleracea extract on
+the *Amblyomma cajennense* (Acari: Ixodidae) male reproductive system
+In: III Latin American Congress of Acarology and VI Brazilian Symposium
+of Acarology, 2018, Pirenópolis, Goiás.  Congress proceedings of III
+CLAC & VI SIBAC, 2018.
 
-**7.ANHOLETO, L. A.;** CAMARGO-MATHIAS, M. I.; MORAES,
-K. C. M.; ABREU, M. R. Action of *Rhipicephalus sanguineus* (Latreille,
-1806) salivary gland extract on HEP-G2 tumor cells. In: IX Scientific
-Symposium of Postgraduates in CENA, 2016. Resumos dos trabalhos
-apresentados no IX Simpósio Científico dos Pós-graduandos no CENA.
-Piracicaba - SP: Seção Técnica de Biblioteca - CENA/USP, 2016. v.1.
+**7.ANHOLETO, L. A.;** CAMARGO-MATHIAS, M. I.; MORAES, K. C. M.; ABREU,
+M. R. Action of *Rhipicephalus sanguineus* (Latreille, 1806) salivary
+gland extract on HEP-G2 tumor cells. In: IX Scientific Symposium of
+Postgraduates in CENA, 2016. Resumos dos trabalhos apresentados no IX
+Simpósio Científico dos Pós-graduandos no CENA. Piracicaba - SP: Seção
+Técnica de Biblioteca - CENA/USP, 2016. v.1.
 
 **8.** ABREU, M. R.; CAMARGO-MATHIAS, M. I.; ROCHA, F. A.; FURQUIM, K.
 C. S.; **ANHOLETO, L.A.**; NOVAES, F. C. F.; MORSOLETO, M. J.; NODARI,
@@ -850,8 +854,8 @@ sanguineus* l.s. (Acari: Ixodidae) In: XXVIII UNESP Congress of
 Scientific Initiation, 2016, Bauru, SP.  Anais do XXVIII Congresso de
 Iniciação Científica da UNESP, 2016.
 
-**13.ANHOLETO, L.A.;** CAMARGO-MATHIAS, M. I.; OLIVEIRA, P.
-R.; RODRIGUES, R. A. F.; LABRUNA, M. B.; PIZANO, M. A.; CASTRO, K. N. C.
+**13.ANHOLETO, L.A.;** CAMARGO-MATHIAS, M. I.; OLIVEIRA, P. R.;
+RODRIGUES, R. A. F.; LABRUNA, M. B.; PIZANO, M. A.; CASTRO, K. N. C.
 Potential action of extract of *Acmella oleracea* (L.) R. K. Jansen to
 control Amblyomma cajennense (Fabricius, 1787) (Acari: Ixodidae) ticks
 In: II Congreso Latinoamericano de Acarología, 2016, Montenegro,
@@ -859,10 +863,10 @@ Quindío, Colombia.  Proceedings II Congreso Latinoamericano de
 Acarología II Clac. Vol. 2. Montenegro, Quíndio, Colombia: Sociedad
 Latinoamericana de Acarología, 2016. v.2. p.45 - 45
 
-**14.ANHOLETO, L.A.;** CAMARGO-MATHIAS, M. I.; OLIVEIRA, P.
-R.; PIZANO, M. A.; REMEDIO, R. N.; BECHARA, GERVÁSIO HENRIQUE; ABREU, R.
-M. M.; LIMA-SOUZA, J. R. Potential action of the chemical dinotefuran in
-the control of semiengorged female ticks *Rhipicephalus sanguineus*
+**14.ANHOLETO, L.A.;** CAMARGO-MATHIAS, M. I.; OLIVEIRA, P. R.; PIZANO,
+M. A.; REMEDIO, R. N.; BECHARA, GERVÁSIO HENRIQUE; ABREU, R. M. M.;
+LIMA-SOUZA, J. R. Potential action of the chemical dinotefuran in the
+control of semiengorged female ticks *Rhipicephalus sanguineus*
 (Latreille, 1806) (Acari: Ixodidae) In: II Congreso Latinoamericano de
 Acarología, 2016, Montenegro, Quindío, Colombia.  Proceedings II
 Congreso Latinoamericano de Acarología II Clac. Vol. 2. Montenegro,
@@ -886,12 +890,12 @@ seed oil (Azadirachta indica) In: V SIBAC - Brazilian Symposium of
 Acarology, 2015, São José do Rio Preto, Brazil.  Anais do V SIBAC.,
 2015.
 
-**17.ANHOLETO, L. A.;** REMEDIO, R. N.; NUNES, P. H.;
-OLIVEIRA, P. R.; LIMA-SOUZA, J. R.; CAMARGO-MATHIAS, M. I. Morphological
-effects of neem seed oil (*Azadiractha indica* A Juss) on the salivary
-glands of semi-ingurgitate females of the tick *Rhipicephalus
-sanguineus* (Acari: Ixodidae). In: V SIBAC - Brazilian Symposium of
-Acarology, 2015, São José do Rio Preto. Anais do V SIBAC. , 2015.
+**17.ANHOLETO, L. A.;** REMEDIO, R. N.; NUNES, P. H.; OLIVEIRA, P. R.;
+LIMA-SOUZA, J. R.; CAMARGO-MATHIAS, M. I. Morphological effects of neem
+seed oil (*Azadiractha indica* A Juss) on the salivary glands of
+semi-ingurgitate females of the tick *Rhipicephalus sanguineus* (Acari:
+Ixodidae). In: V SIBAC - Brazilian Symposium of Acarology, 2015, São
+José do Rio Preto. Anais do V SIBAC. , 2015.
 
 **18.** ABREU, M. R.; CAMARGO-MATHIAS, M. I.; FURQUIM, K. C. S.; ROCHA,
 F. A.; **ANHOLETO, L. A.;** NOVAES, F. C. F.; MORSOLETO, M. J. Salivary
@@ -907,14 +911,13 @@ sulphate pentahydrate. In: International Congress of Phytopathology,
 2009, Rio de Janeiro - RJ.  Tropical Plant Pathology. Brasília:
 Brazilian Phytopathological Society, 2009. v.34. p.103 – 103.
 
-**20.ANHOLETO, L. A.;** VILELA, T. M.; DARIO, I. S. N.;
-DARIO, J. G. A. Agronomic efficiency of a new product: pentahydrate
-copper sulphate in the control of blackleg of potato crop. In:
-International Congress of Phytopathology, 2009, Rio de Janeiro - RJ. 
-Tropical Plant Pathology. Brasília: Brazilian Phytopathological Society,
-2009. v.34. p.95 – 95.
+**20.ANHOLETO, L. A.;** VILELA, T. M.; DARIO, I. S. N.; DARIO, J. G. A.
+Agronomic efficiency of a new product: pentahydrate copper sulphate in
+the control of blackleg of potato crop. In: International Congress of
+Phytopathology, 2009, Rio de Janeiro - RJ.  Tropical Plant Pathology.
+Brasília: Brazilian Phytopathological Society, 2009. v.34. p.95 – 95.
 
-#**ORAL PRESENTATIONS**
+## **ORAL PRESENTATIONS**
 
 **1. ANHOLETO, L.A.;** FERGUSON, L.; HILLIER, K.; FARAONE, N. Effect of
 temperature and humidity on tick response to repellents and acaricides:
@@ -922,65 +925,62 @@ implications of climate change for tick control strategies. Atlantic
 Canada Association of Parasitologists (ACAP) Annual meeting 2024,
 Wolfville, 2024.
 
-**2.ANHOLETO, L.A.;** BLANCHARD, S.; CHAGAS, A.C.S.,
-HILLIER, N.K.; FARAONE, N. *In vitro*, evaluation of essential oils and
-their binary mixtures against the black-legged ticks *Ixodes scapularis*
-(Acari: Ixodidae). XIV Brazilian Symposium on Pharmacognosy, Maranhão,
-Brazil, 2023.
-
-**3.ANHOLETO, L. A**.; BRANCAGLION, G. A.; SANTOS, D.
-M.; KAPRITCHKOFF, R. T. I.; CASTRO, K. N. C.; CANUTO, K. M.; RODRIGUES,
-R. A. F.; CORREA, D. S.; PASTRE, J. C.; CHAGAS, A. C. S. Atividade
-acaricida do derivado sintético do espilantol contra carrapatos de
-importância médica e veterinária. XV Jornada Científica da Embrapa de
-São Carlos, São Carlos, Brazil, 2023.
-
-**4.ANHOLETO, L.A**.; FIGUEIREDO, A.; COLA, D.;
-FANTATTO, R.R.; GAINZA, Y.A.; SANTOS, I.B.; FRACETO, L.F.; HILLIER,
-N.K.; FARAONE, N.; CHAGAS, A.C.S. Association of zein nanoparticles with
-botanical compounds for cattle tick control. 2022 Joint ESA, ESC, and
-ESBC Annual Meeting, Vancouver, British Columbia, Canada. Entomological
-Society of America (ESA).
-
-#**POSTER PRESENTATIONS**
-
-**1.ANHOLETO, L.A.;** FERGUSON, L., FARAONE, N.
-Isolation and identification of *Clonostachys rosea* (Ascomycota:
-Hypocreales) from deceased ticks, revealing a novel natural tick
-pathogen. 63rd Annual Meeting of the Canadian Society of Zoologists,
-Moncton, NB, Canada, 2024.
-
-**2.ANHOLETO, L.A.;** FERGUSON, L., FARAONE, N.
-Isolation of *Clonostachys rosea* (Ascomycota: Hypocreales)
-entomopathogenic fungus from deceased ticks, revealing a novel natural
-tick pathogen. TickNet Canada Scientific Symposium, Toronto, ON, Canada,
+**2.ANHOLETO, L.A.;** BLANCHARD, S.; CHAGAS, A.C.S., HILLIER, N.K.;
+FARAONE, N. *In vitro*, evaluation of essential oils and their binary
+mixtures against the black-legged ticks *Ixodes scapularis* (Acari:
+Ixodidae). XIV Brazilian Symposium on Pharmacognosy, Maranhão, Brazil,
 2023.
 
-**3.ANHOLETO, L. A.;** CHOLAK, L. R.; BORBA, R. S.;
-MELLO, D. C. C.; GONCALVES, L. R. . First Steps in Science: an
-experience of integration between high school and research. Meeting of
-the Graduate Program in Education - INTEGRAP, UNESP Rio Claro, SP,
-Brazil, 2019.
+**3.ANHOLETO, L. A**.; BRANCAGLION, G. A.; SANTOS, D. M.; KAPRITCHKOFF,
+R. T. I.; CASTRO, K. N. C.; CANUTO, K. M.; RODRIGUES, R. A. F.; CORREA,
+D. S.; PASTRE, J. C.; CHAGAS, A. C. S. Atividade acaricida do derivado
+sintético do espilantol contra carrapatos de importância médica e
+veterinária. XV Jornada Científica da Embrapa de São Carlos, São Carlos,
+Brazil, 2023.
 
-**4.ANHOLETO, L. A.;** CAMARGO-MATHIAS, M. I.; OLIVEIRA,
-P. R.; RODRIGUES, R. A. F.; YAMANE, LAIS THIEMI; CASTRO, K. N. C. Toxic
-action of *Acmella oleracea* extract on the *Amblyomma cajennense*
-(Acari: Ixodidae) male reproductive system. II Latin American Congress
-of Acarology/VI Brazilian Symposium of Acarology, 2018, Goiás, Brazil.
+**4.ANHOLETO, L.A**.; FIGUEIREDO, A.; COLA, D.; FANTATTO, R.R.; GAINZA,
+Y.A.; SANTOS, I.B.; FRACETO, L.F.; HILLIER, N.K.; FARAONE, N.; CHAGAS,
+A.C.S. Association of zein nanoparticles with botanical compounds for
+cattle tick control. 2022 Joint ESA, ESC, and ESBC Annual Meeting,
+Vancouver, British Columbia, Canada. Entomological Society of America
+(ESA).
 
-**5.ANHOLETO, L. A.;** CAMARGO-MATHIAS, M. I. ;
-OLIVEIRA, P. R. ; RODRIGUES, R. A. F. ; LABRUNA, M. B. ; PIZANO, M. A. ;
-CASTRO, K. N. C. . Potential action of extract of *Acmella oleracea*
-(L.) R. K. Jansen to control *Amblyomma cajennense* (Fabricius, 1787)
-(Acari: Ixodidae) ticks. II Latin American Congress of Acarology,
-Quindío, Colombia, 2016.
+## **POSTER PRESENTATIONS**
 
-**6.ANHOLETO, L. A.;** CAMARGO-MATHIAS, M. I. ;
-OLIVEIRA, P. R. ; PIZANO, M. A. ; REMEDIO, R. N. ; BECHARA, GERVÁSIO
-HENRIQUE ; ABREU, R. M. M. ; LIMA-SOUZA, J. R. . Potential action of the
-chemical dinotefuran in the control of semi engorged female ticks
-*Rhipicephalus sanguineus* (Latreille, 1806) (Acari: Ixodidae). II Latin
-American Congress of Acarology, Quindío, Colombia, 2016.
+**1.ANHOLETO, L.A.;** FERGUSON, L., FARAONE, N. Isolation and
+identification of *Clonostachys rosea* (Ascomycota: Hypocreales) from
+deceased ticks, revealing a novel natural tick pathogen. 63rd Annual
+Meeting of the Canadian Society of Zoologists, Moncton, NB, Canada,
+2024.
+
+**2.ANHOLETO, L.A.;** FERGUSON, L., FARAONE, N. Isolation of
+*Clonostachys rosea* (Ascomycota: Hypocreales) entomopathogenic fungus
+from deceased ticks, revealing a novel natural tick pathogen. TickNet
+Canada Scientific Symposium, Toronto, ON, Canada, 2023.
+
+**3.ANHOLETO, L. A.;** CHOLAK, L. R.; BORBA, R. S.; MELLO, D. C. C.;
+GONCALVES, L. R. . First Steps in Science: an experience of integration
+between high school and research. Meeting of the Graduate Program in
+Education - INTEGRAP, UNESP Rio Claro, SP, Brazil, 2019.
+
+**4.ANHOLETO, L. A.;** CAMARGO-MATHIAS, M. I.; OLIVEIRA, P. R.;
+RODRIGUES, R. A. F.; YAMANE, LAIS THIEMI; CASTRO, K. N. C. Toxic action
+of *Acmella oleracea* extract on the *Amblyomma cajennense* (Acari:
+Ixodidae) male reproductive system. II Latin American Congress of
+Acarology/VI Brazilian Symposium of Acarology, 2018, Goiás, Brazil.
+
+**5.ANHOLETO, L. A.;** CAMARGO-MATHIAS, M. I. ; OLIVEIRA, P. R. ;
+RODRIGUES, R. A. F. ; LABRUNA, M. B. ; PIZANO, M. A. ; CASTRO, K. N. C.
+. Potential action of extract of *Acmella oleracea* (L.) R. K. Jansen to
+control *Amblyomma cajennense* (Fabricius, 1787) (Acari: Ixodidae)
+ticks. II Latin American Congress of Acarology, Quindío, Colombia, 2016.
+
+**6.ANHOLETO, L. A.;** CAMARGO-MATHIAS, M. I. ; OLIVEIRA, P. R. ;
+PIZANO, M. A. ; REMEDIO, R. N. ; BECHARA, GERVÁSIO HENRIQUE ; ABREU, R.
+M. M. ; LIMA-SOUZA, J. R. . Potential action of the chemical dinotefuran
+in the control of semi engorged female ticks *Rhipicephalus sanguineus*
+(Latreille, 1806) (Acari: Ixodidae). II Latin American Congress of
+Acarology, Quindío, Colombia, 2016.
 
 **7.** ABREU, M. R. ; CAMARGO-MATHIAS, M. I. ; ROCHA, F. A. ; FURQUIM,
 K. C. S. ; **ANHOLETO, L. A.** ; NOVAES, F. C. F. ; MORSOLETO, M. J.;
@@ -1014,11 +1014,10 @@ sections of salivary glands of tick females *Rhipicephalus sanguineus*
 (Acari: Ixodid). XXVIII Congress of Scientific Initiation, UNESP Rio
 Claro, 2016.
 
-**12.ANHOLETO, L.A.;** CAMARGO-MATHIAS, M. I. ; MORAES, K.
-C. M. ; ABREU, M. R. . Action of salivary gland extract of
-*Rhipicephalus sanguineus* (Latreille, 1806) on tumor cells HEP-G2. IX
-Scientific Symposium of Graduate Students CENA/USP, Piracicaba, Brazil,
-2016.
+**12.ANHOLETO, L.A.;** CAMARGO-MATHIAS, M. I. ; MORAES, K. C. M. ;
+ABREU, M. R. . Action of salivary gland extract of *Rhipicephalus
+sanguineus* (Latreille, 1806) on tumor cells HEP-G2. IX Scientific
+Symposium of Graduate Students CENA/USP, Piracicaba, Brazil, 2016.
 
 **13.** PEREIRA, N. R. C. ; CAMARGO-MATHIAS, M. I. ; PEREIRA, M. C. ;
 NODARI, E. F. ; **ANHOLETO, L.A**. ; SANTOS, J. P. . Morphophysiological
@@ -1026,12 +1025,12 @@ changes in the ovaries of *Rhipicephalus sanguineus* ticks (Acari:
 Ixodidae) induced by Deltamethrin. IX Scientific Symposium of Graduate
 Students CENA/USP, Piracicaba, Brazil, 2016.
 
-**14.ANHOLETO, L. A.;** REMEDIO, R. N. ; NUNES, P. H. ;
-OLIVEIRA, P. R. ; LIMA-SOUZA, J. R. ; CAMARGO-MATHIAS, M. I.
-Morphological effects of neem seed oil (*Azadiractha indica* A Juss) on
-the salivary glands of semi-engorged females of the tick *Rhipicephalus
-sanguineus* (Acari: Ixodidae). V SIBAC – Brazilian Symposium on
-Acarology, UNESP Rio Preto, SP, Brazil, 2015.
+**14.ANHOLETO, L. A.;** REMEDIO, R. N. ; NUNES, P. H. ; OLIVEIRA, P. R.
+; LIMA-SOUZA, J. R. ; CAMARGO-MATHIAS, M. I. Morphological effects of
+neem seed oil (*Azadiractha indica* A Juss) on the salivary glands of
+semi-engorged females of the tick *Rhipicephalus sanguineus* (Acari:
+Ixodidae). V SIBAC – Brazilian Symposium on Acarology, UNESP Rio Preto,
+SP, Brazil, 2015.
 
 **15.** LIMA-SOUZA, J. R. ; CAMARGO-MATHIAS, M. I. ; **ANHOLETO, L. A.**
 ; OLIVEIRA, P. R. ; REMEDIO, R. N. ; NUNES, P. H. . Ultrastructural
@@ -1057,7 +1056,7 @@ sanguineus* (Acari: Ixodidae) (Latreille, 1806) fed male and
 semi-engorged female ticks. Event: *Ticks and Tck-borne Pathogens
 International Conference –* TTP7, Zaragoza, Spain, 2011.
 
-#**PATENT**
+## **PATENT**
 
 **ANHOLETO, L. A**.; CHAGAS, A. C. S. ; PASTRE, J. C. ; BRANCAGLION, G.
 A. ; CORREA, D. S. ; SANTOS, D. M. ; CANUTO, K. M. ; CASTRO, K. N. C. ;
@@ -1065,7 +1064,7 @@ MINHO, A. P. ; BRITO, E. S. ; ALVES, T. C. ; RODRIGUES, R. A. F. ;
 RODRIGUES, M. V. N. ; SANTOS, A. S. . Acaricidal and repellent
 nanoemulsion. 2022, Brazil.
 
-#**RESEARCH COLLABORATIONS**
+## **RESEARCH COLLABORATIONS**
 
 **Dr. Alessandro Pelegrine Minho** (Department of Veterinary
 Parasitology, Brazilian Agricultural Research Corporation, São Carlos,
@@ -1115,7 +1114,7 @@ strategy of *Rhipicephalus sanguineus* (Acari: Ixodidae).
 cycle in the *Rhipicephalus sanguineus* (tropical lineage) tick: an
 essential step to control canine ehrlichiosis.
 
-#**GRANTS**
+## **GRANTS**
 
 **Research grant (2024/2025):** Entomopathogenic fungus, *Clonostachys
 rosea* (Ascomycota: Hypocreales), as a novel tick biocontrol agent
@@ -1152,7 +1151,7 @@ of female *Rhipicephalus sanguineus* (Latreille, 1806) on inhibition and
 proliferation of tumour cells. The São Paulo Research Foundation, FAPESP
 grant n. 2013/00654-0. R\$ 22,825.44 = **6,272.43 CAD.**
 
-#**PEER-REVIEWS FOR SCIENTIFIC JOURNALS**
+## **PEER-REVIEWS FOR SCIENTIFIC JOURNALS**
 
 International Journal of Acarology (2025 – present) – Taylor & Francis.
 
@@ -1163,7 +1162,7 @@ Acta Parasitologica (2023 present) – Springer.
 Revista Brasileira de Parasitologia Veterinária (2023 – present) -
 Colégio Brasileiro de Parasitologia Veterinária.
 
-#**LEADERSHIP AND SERVICE**
+## **LEADERSHIP AND SERVICE**
 
 Leader of the Graduate Students in the Graduate counsel for the Cell and
 Molecular Biology Program, São Paulo State University, Rio Claro, SP,
@@ -1191,10 +1190,10 @@ Organizer of IV Symposium on Cell and Molecular Biology, Brazil, 2015.
 
 Organizer of III Symposium on Cell and Molecular Biology, Brazil, 2013.
 
-#**LANGUAGE SKILLS**
+## **LANGUAGE SKILLS**
 
 English (Advanced), Portuguese (native), Spanish (basic)
 
-#**OTHER SKILLS**
+## **OTHER SKILLS**
 
-IT:Applications: Microsoft Office Suite, Internet, Corel Draw
+IT:Applications: Microsoft Office Suite, Internet, Coreldraw

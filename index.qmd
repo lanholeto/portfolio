@@ -1,37 +1,12 @@
 ---
 title: Dr. Luís Adriano Anholeto
+# profile photo
 image: img/anholeto-profile.jpg
-about:
+about: #homepage template
   template: jolla
-  image-shape: round
-  image-width: 15em
-  links: 
-    - text: Email
-      icon: envelope
-      href: mailto:luis.anholeto@acadiau.ca
-    - text: GitHub
-      icon: github
-      href: https://github.com/lanholeto
-    - text: Twitter/X
-      icon: twitter
-      href: https://twitter.com/lanholeto
-    - text: LinkedIn
-      icon: linkedin
-      href: https://www.linkedin.com/in/lanholeto
-    - text: Scholar
-      icon: mortarboard-fill
-      href: https://scholar.google.com/citations?user=dlkP2zUAAAAJ&hl=en
-    - text: ORCID
-      icon: person-circle
-      href: https://orcid.org/0000-0001-8712-263
+  image-shape: round #shape profile picture
+  image-width: 12em #size profile picture
 ---
+<div style="text-align: justify"> I am a passionate and innovative research scientist with expertise in **cellular and molecular biology**, toxicology, and bioassays, specializing in the study of arthropods of medical and veterinary importance—particularly **ticks**. With a PhD in Cellular and Molecular Biology and extensive experience in nanoformulation, microscopy, and analytical method development, I thrive on transforming complex biological problems into practical solutions with real-world applications. My work is driven by the need for **sustainable, environmentally friendly strategies to control ticks** and other arthropods of medical and veterinary significance. Using histology, histochemistry, laser scanning confocal microscopy, and electron microscopy, I study the effects of synthetic and natural products on tick internal organs. By integrating molecular and toxicological approaches, I aim to bridge the gap between fundamental research and applied solutions, developing safer, more effective pest management strategies.
 
-:::: {style="text-align: justify"}
-<div>
-
-I am a passionate and innovative research scientist with expertise in **cellular and molecular biology**, toxicology, and bioassays, specializing in the study of arthropods of medical and veterinary importance—particularly **ticks**. With a PhD in Cellular and Molecular Biology and extensive experience in nanoformulation, microscopy, and analytical method development, I thrive on transforming complex biological problems into practical solutions with real-world applications. My work is driven by the need for **sustainable, environmentally friendly strategies to control ticks** and other arthropods of medical and veterinary significance. Using histology, histochemistry, laser scanning confocal microscopy, and electron microscopy, I study the effects of synthetic and natural products on tick internal organs. By integrating molecular and toxicological approaches, I aim to bridge the gap between fundamental research and applied solutions, developing safer, more effective pest management strategies.
-
-If you'd like to get in touch, I'd love to hear from you! Just click on the links available on this page and in the navigation bar to reach out.
-
-</div>
-::::
+If you'd like to get in touch, I'd love to hear from you! Just click on the links available on this page and in the navigation bar to reach out.</div>

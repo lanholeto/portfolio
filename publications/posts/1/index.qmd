@@ -1,0 +1,59 @@
+---
+title: "Morphological alterations in the ovaries of *Amblyomma cajennense* semi-engorged ticks exposed to ethanolic extract of *Acmella oleracea*"
+categories:
+  - Control
+  - Jambu
+  - Morphology
+  - Oocytes
+  - Ticks
+author: Luís Adriano Anholeto;
+        Patrícia Rosa de Oliveira;
+        Rodney Alexandre Ferreira Rodrigues;
+        Lais Thiemi Yamane;
+        Karina Neoob de Carvalho Castro;
+        Maria Izabel Camargo-Mathias.
+subtitle: Microscopy Research and Techniques
+date: 10/08/2018 # date is in mm/dd/yyyy
+toc: true
+image: jambu.jpg
+---
+
+![*Acmella oleracea* plant](jambu.jpg){fig-align="center"}
+
+::: {style="text-align: justify"}
+The present study analyzed the effects of different concentrations of
+*Acmella oleracea* crude ethanolic extract (EEAO) on the development of
+germ cells from semi-engorged *Amblyomma cajennense* females in order to
+evaluate the potential of this natural chemical as a strategy to control
+these important ectoparasites. A hundred semi-engorged females were
+divided into five groups (duplicates) (10 animals/group): Control 1
+(distilled water); Control 2 (solvent ethanol 50% and DMSO 1%); and
+Treatment I to III (3.1, 6.2, and 12.5 mg/mL of EEAO, respectively). For
+the exposure of the ticks to the extract was used the Adult Immersion
+Test. After the exposition, the ovaries were removed and submitted to
+histological analysis using Harris hematoxylin and aqueous eosin. The
+histochemical tests were performed using PAS and Bromophenol blue
+staining techniques, for the detection of total polysaccharides and
+total protein, respectively. The extract caused significant alterations
+in the oocytes, including changes in the shape of the cells,
+disorganization, and cytoplasmic vacuolation, decrease in the number of
+yolk granules and germ vesicle fragmentation. These alterations were
+more intense in the oocytes in initial developmental stages (I and II).
+The results obtained in this study confirm the cytotoxic potential of
+the ethanolic extract of *A. oleracea* on the germ cells of *A.
+cajennense* females, opening up the possibility to use this extract as
+an alternative to control these ectoparasites.
+:::
+
+::: {.g-col-12 .g-col-sm-6}
+::: nav-btn
+[Back to Publications](/publications/index.qmd)
+
+
+#### How to cite
+
+Anholeto LA, Oliveira PR, Rodrigues RAF, Yamane LT, Castro Karina Neoob
+de Carvalho, Camargo-Mathias MI. Morphological alterations in the
+ovaries of *Amblyomma cajennense* semi-engorged ticks exposed to
+ethanolic extract of *Acmella oleracea*. *Microsc Res Tech*. 2018; 81:
+1347–1357. <https://doi.org/10.1002/jemt.23145>

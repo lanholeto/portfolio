@@ -1,6 +1,10 @@
 [
   {
-    "listing": "/publications/index.html",
+    "listing": "/about/about.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/publications.html",
     "items": [
       "/publications/posts/1/index.html"
     ]

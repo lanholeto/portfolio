@@ -3,25 +3,29 @@ project:
   output-dir: docs #folder to save files
   
 website:
-  #control navegation bar
+  site-url: https://lanholeto.github.io/portfolio/
+  description: "Researcher and educator with cell and molecular expertise "
+  favicon: img/icons8-human.svg
+  page-navigation: true
+  back-to-top-navigation: true
   navbar:
     left:
     - href: index.qmd
       text: <i class="bi bi-house-door-fill"></i>
       
-    - href: about/index.qmd
+    - href: about/about.qmd
       text: "About"
       
-    - href: research/index.qmd
+    - href: research/research.qmd
       text: "Research"
           
-    - href: publications/index.qmd
+    - href: publications/publications.qmd
       text: "Publications"
           
-    - href: cv/index.qmd
+    - href: cv/cv.qmd
       text: "CV"
 
-    - href: contact/index.qmd
+    - href: contact/contact.qmd
       text: "Contact"
       
     tools:
@@ -43,7 +47,7 @@ website:
   page-footer:
     border: false
     background: "#000000"
-    left: "© last modified Feb 16, 2025 - Luís Adriano Anholeto"
+    left: "© last modified April 28, 2025 - Luís Adriano Anholeto"
 
 #control format for all pages 
 format:

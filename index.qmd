@@ -1,12 +1,24 @@
 ---
 title: Dr. Luís Adriano Anholeto
-# profile photo
-image: img/anholeto-profile.jpg
-about: #homepage template
+pagetitle: Dr. Luís Adriano Anholeto
+subtitle: Cellular and Molecular Biologist - Tick Biology & Control Specialist
+image: img/anholeto-profile.jpg # profile photo
+about:
   template: jolla
-  image-shape: round #shape profile picture
-  image-width: 12em #size profile picture
----
-<div style="text-align: justify"> I am a passionate and innovative research scientist with expertise in **cellular and molecular biology**, toxicology, and bioassays, specializing in the study of arthropods of medical and veterinary importance—particularly **ticks**. With a PhD in Cellular and Molecular Biology and extensive experience in nanoformulation, microscopy, and analytical method development, I thrive on transforming complex biological problems into practical solutions with real-world applications. My work is driven by the need for **sustainable, environmentally friendly strategies to control ticks** and other arthropods of medical and veterinary significance. Using histology, histochemistry, laser scanning confocal microscopy, and electron microscopy, I study the effects of synthetic and natural products on tick internal organs. By integrating molecular and toxicological approaches, I aim to bridge the gap between fundamental research and applied solutions, developing safer, more effective pest management strategies.
+  image-shape: round
+  image-width: 12em
+  id: hero-heading
 
-If you'd like to get in touch, I'd love to hear from you! Just click on the links available on this page and in the navigation bar to reach out.</div>
+page-layout: full
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+---
+
+:::{#hero-heading .center}
+I am a researcher and educator with expertise in **cellular and molecular biology**. My research interests focus on tick biology, integrated pest management, and developing novel, more effective strategies for vector and disease control, particularly in the context of climate warming and other environmental changes.
+
+[Learn more about me →](/about){.about-links .subtitle}
+:::

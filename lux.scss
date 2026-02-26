@@ -312,3 +312,12 @@ hr {
     height: 1px;
     background-color: black;
 }
+
+$full-height: 100vh;
+$alignment: center;
+
+#hero-heading {
+  margin: 0 auto; /* Centers the block */
+  text-align: center; /* Centers the text inside */
+  max-width: 80%; /* Optional: Adjusts readability */
+}
